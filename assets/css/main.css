@@ -2679,12 +2679,12 @@
 		}
 
 			ul.tab-list li a.active {
-				background: #aa14cc;
+				background: #157a0d;
 				color: #fff !important;
 			}
 
 			ul.tab-list li a:hover {
-				background: #693dcc;
+				background: #63b85c;
 				color: #fff !important;
 			}
 
